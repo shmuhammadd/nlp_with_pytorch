@@ -5,11 +5,8 @@
 
 
 
-| Chapter  |  Code  and Answer  |   Recording            |
+| Chapter  |  Code  and Answer  |   Recording     |
 | ------------- | ------------- | ------------- |
-| Chapter 1  | [ Introduction: PyTorch Basics]()
-](https://github.com/shmuhammad2004/dailyml/blob/main/daily_0001.md) |  |
-| 02   |  [But why deep learning?](https://github.com/shmuhammad2004/dailyml/blob/main/daily_0002.md)  |   |
-| 03   |  [Question on Momentum: Rolling down the hill?](https://github.com/shmuhammad2004/dailyml/blob/main/daily_0003.md)  | |
-| 04  |  [Choosing Metrics for Imbalance Dataset: Chosing Wrong Metrics](https://github.com/shmuhammad2004/dailyml/blob/main/daily_0004.md)  | |
+| Chapter 1  | [Introduction: PyTorch Basics](https://github.com/shmuhammad2004/nlp_with_pytorch/blob/main/chapters/chapter_1/PyTorch_Basics.ipynb) |   |
+
 ****
