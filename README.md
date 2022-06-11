@@ -1,6 +1,6 @@
 # Natural Language Processing with PyTorch Book Club
 
-Theses are Notebooks and recording for our bookclub study session at HausaNLP group !
+Theses are Notebooks and recording for our bookclub study session at HausaNLP group for the book [Natural Language Processing with PyTorch Book](https://www.amazon.com/Natural-Language-Processing-PyTorch-Applications/dp/1491978236) 
 
 
 
