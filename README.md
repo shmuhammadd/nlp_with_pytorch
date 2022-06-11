@@ -14,7 +14,7 @@
 | Chapter 5  | [Embedding Words and Types]() |   |
 | Chapter 6  | [Sequence Modeling for NLP]() |   |
 | Chapter 7  | [Intermediate Sequence Modeling for NLP]() |   |
-| Chapter 8  | [Advanced Sequence Modeling for NLP] ()|   |
+| Chapter 8  | [Advanced Sequence Modeling for NLP]()|   |
 | Chapter 9  | [Final]() |   |
 
 ****
