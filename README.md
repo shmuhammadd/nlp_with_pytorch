@@ -1,6 +1,6 @@
 # Natural Language Processing with PyTorch Book Club
 
-
+Notebooks for study session at HausaNLP group !
 
 
 
